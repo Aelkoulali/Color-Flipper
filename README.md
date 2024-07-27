@@ -1,5 +1,6 @@
-# Color-Flipper Using Html,CSS & Javascript
-## Key concepts 
+# Color Flipper
+## Html,CSS & Javascript
+## Key concepts : 
 ### arrays
 ### document.getElementById()
 ### document.querySelector()
