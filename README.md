@@ -1,4 +1,4 @@
-# 🗂️ Color Flipper
+# 🗂️ Color Flipper 🟥🔄🟪🔄🟦🔄🟩
 ## ➡️ Key concepts : 
 ### ✅ arrays
 ### ✅ document.getElementById()
