@@ -1,5 +1,6 @@
 # 🗂️ Color Flipper 🟥🔄🟪🔄🟦🔄🟩
 ## ➡️ Key concepts : 
+### ✅JavaScript, HTML & CSS 
 ### ✅ arrays
 ### ✅ document.getElementById()
 ### ✅ document.querySelector()
